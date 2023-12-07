@@ -7,9 +7,8 @@
 - Visualize the data in various aspects
 - Capture valuable insight from the data via mathematical methods
 
-# Libaries Used
+# External Libaries Used
 - Streamlit
 - Pandas
 - Numpy
-- Matplotlib
-- Seaborn
+
